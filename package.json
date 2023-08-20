@@ -1,5 +1,5 @@
 {
-  "name": "miio",
+  "name": "miio-react-native",
   "version": "0.15.4",
   "license": "MIT",
   "description": "Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",
@@ -23,11 +23,12 @@
     "node": ">=6.6.0"
   },
   "dependencies": {
-    "abstract-things": "^0.9.0",
+    "abstract-things": "github:dmatora/abstract-things-react-native",
     "appdirectory": "^0.1.0",
     "chalk": "^2.3.0",
     "debug": "^3.1.0",
     "deep-equal": "^1.0.1",
+    "js-md5": "^0.7.3",
     "mkdirp": "^0.5.1",
     "react-native-crypto": "^2.2.0",
     "react-native-udp": "^4.1.7",
