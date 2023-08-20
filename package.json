@@ -29,6 +29,7 @@
     "debug": "^3.1.0",
     "deep-equal": "^1.0.1",
     "mkdirp": "^0.5.1",
+    "react-native-crypto": "^2.2.0",
     "react-native-udp": "^4.1.7",
     "tinkerhub-discovery": "^0.3.1",
     "util": "^0.12.5",
